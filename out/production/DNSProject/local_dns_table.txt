@@ -1,0 +1,2 @@
+www.yahoo.com 127.0.0.113
+www.google.com 127.9.9.1
